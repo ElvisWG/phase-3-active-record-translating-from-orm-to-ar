@@ -1,0 +1,13 @@
+current directory: /home/elvis/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+/home/elvis/.rbenv/versions/2.7.1/bin/ruby -I /home/elvis/.rbenv/versions/2.7.1/lib/ruby/2.7.0 -r ./siteconf20221113-32195-wht9b8.rb extconf.rb
+creating Makefile
+
+current directory: /home/elvis/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" clean
+
+current directory: /home/elvis/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make "DESTDIR="
+make: Nothing to be done for 'all'.
+
+current directory: /home/elvis/phase-3-active-record-translating-from-orm-to-ar/vendor/bundle/ruby/2.7.0/gems/json-1.8.6/ext/json
+make "DESTDIR=" install
